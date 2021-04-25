@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GetImageCode/handler"
-	pb "GetImageCode/proto"
+	"gitee.com/hanwei66/GetImageCode/handler"
+	pb "gitee.com/hanwei66/GetImageCode/proto"
 
 	"github.com/micro/micro/v3/service"
 	"github.com/micro/micro/v3/service/logger"
