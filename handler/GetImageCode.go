@@ -9,7 +9,7 @@ import (
 	"gitee.com/hanwei66/IHomeWeb/utils"
 	log "github.com/micro/micro/v3/service/logger"
 	// "IHome/IHomeWeb/utils"
-	imageCode "GetImageCode/proto"
+	imageCode "gitee.com/hanwei66/GetImageCode/proto"
 )
 
 type GetImageCode struct{}

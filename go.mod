@@ -1,4 +1,4 @@
-module  gitee.com/hanwei66/GetImageCode
+module gitee.com/hanwei66/GetImageCode
 
 go 1.15
 
